@@ -1,0 +1,42 @@
+---
+import { U, S, IC, serviceUrl, type Lang } from '../lib/site';
+const { lang } = Astro.props as { lang: Lang };
+const x = U[lang];
+const h = x.hv;
+// Serviços que "alimentam" o celular: [slug, x%, y%]
+const N: [string, number, number][] = [
+  ['midia-paga', 11, 10], ['seo', 9, 30], ['redes-sociais', 8, 50], ['influencia', 9, 70], ['video-ia', 11, 90],
+  ['design-web', 89, 10], ['desenvolvimento', 91, 30], ['apis-ia', 92, 50], ['automacao-n8n', 91, 70], ['agentes-ia', 89, 90],
+];
+const nodes = N.map(([slug, px, py]) => {
+  const z = S.find((t) => t.s === slug)!;
+  const ey = 50 + (py - 50) * 0.5, m = (px + 50) / 2;
+  return { z, px, py, label: z.L[lang][0], d: `M${px} ${py} C${m} ${py} ${m} ${ey} 50 ${ey}`, delay: (px % 7) * 0.2 };
+});
+---
+<div class="hero"><div class="w hg">
+  <div>
+    <span class="pill">{x.pill}</span>
+    <h1>{x.h1a}<span class="g">{x.h1b}</span></h1>
+    <p>{x.hp}</p>
+    <div class="row"><a class="btn t" href="#servicos">{x.b1}</a><a class="btn o" href="#contato">{x.b2}</a></div>
+  </div>
+  <div class="hv" aria-hidden="true">
+    <div class="phn"><i class="nt"></i><div class="scr">
+      <div class="wh"><span class="bk">‹</span><span class="av" set:html={IC['agentes-ia']} /><div class="wn"><b>Quipu IA</b><small>online</small></div><span class="bk">⋮</span></div>
+      <div class="chat"><span class="dy">{h[3]}</span>
+        <div class="bb out m1">{h[0]}<span class="tm">10:42 <u>✓✓</u></span></div>
+        <div class="slot"><div class="bb in tp"><i></i><i></i><i></i></div><div class="bb in m2">{h[1]}<span class="tm">10:42</span></div></div>
+        <div class="bb in cd m3"><b>📋 {h[4]}</b><small>{h[5]}</small><span class="cta2">{h[6]}</span></div>
+      </div>
+      <div class="inp"><span class="pi">🙂 {h[7]}</span><span class="mic"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><rect x="9" y="3" width="6" height="12" rx="3"/><path d="M5 11a7 7 0 0014 0M12 18v3"/></svg></span></div>
+    </div></div>
+    <div class="gl"></div>
+    <svg class="cx" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+      {nodes.map((n) => (<><path class="cn" style={`--c:${n.z.c}`} d={n.d} /><path class="cf" style={`--c:${n.z.c};animation-delay:-${n.delay}s`} d={n.d} /></>))}
+    </svg>
+    {nodes.map((n) => (
+      <a class="sn" style={`left:${n.px}%;top:${n.py}%;--c:${n.z.c}`} href={serviceUrl(lang, n.z.s)} tabindex="-1"><b set:html={IC[n.z.s]} /><em>{n.label}</em></a>
+    ))}
+  </div>
+</div></div>

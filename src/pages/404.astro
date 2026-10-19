@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import { langs, langNames, url } from '../lib/site';
+---
+<Base lang="pt" title="Página não encontrada | Quipu" description="A página que você procura não existe. Volte para a página inicial da Quipu." noindex={true}>
+  <section><div class="w">
+    <div class="k">404</div><h1>Página não encontrada · Page not found · Página no encontrada</h1>
+    <p class="lead">Escolha um idioma / Choose a language / Elige un idioma:</p>
+    <div class="row">{langs.map((l) => <a class="btn o" href={url(l)} hreflang={l}>{langNames[l]}</a>)}</div>
+  </div></section>
+</Base>

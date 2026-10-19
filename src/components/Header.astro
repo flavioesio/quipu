@@ -1,0 +1,48 @@
+---
+import { langs, U, S, G, IC, url, serviceUrl, contact, langNames, type Lang } from '../lib/site';
+interface Props { lang: Lang; paths?: Record<Lang, string> }
+const { lang, paths = { pt: '', en: '', es: '' } } = Astro.props;
+const x = U[lang];
+const n = x.nav; // 0 início · 1 serviços · 2 método · 3 quem somos · 5 contato
+const links: [string, number][] = [[url(lang, '#metodo'), 2], [url(lang, '#sobre'), 3], ['#contato', 5]];
+---
+<div class="tb">
+  <span>{x.tb}</span>
+  <a href={`mailto:${contact.email}`}>✉ {contact.email}</a>
+  {contact.whatsapp.map((w) => <a href={`https://wa.me/${w.number}`} target="_blank" rel="noopener">WhatsApp {w.label} {w.display}</a>)}
+</div>
+<header id="hd">
+  <nav aria-label="Principal">
+    <a class="logo" href={url(lang)} aria-label="Quipu Consultoria e Agência">
+      <img class="l1" src="/logo/arara.webp" width="62" height="76" alt="" />
+      <img class="l4 wm" src="/logo/quipu-completo.webp" width="111" height="38" alt="Quipu Consultoria e Agência" />
+    </a>
+    <ul class="dm">
+      <li><a href={url(lang)}>{n[0]}</a></li>
+      <li><button class="mb" data-m aria-expanded="false">{n[1]} ▾</button></li>
+      {links.map(([href, i]) => <li><a href={href}>{n[i]}</a></li>)}
+    </ul>
+    <div class="rt">
+      <div class="lg">
+        {langs.map((l) => <a data-l={l} class={l === lang ? 'on' : ''} href={url(l, paths[l])} hreflang={l} lang={l} aria-label={langNames[l]}>{l.toUpperCase()}</a>)}
+      </div>
+      <a class="btn t cta" href="#contato">{x.cta}</a>
+      <button class="ham" data-m aria-label="Menu" aria-expanded="false">☰</button>
+    </div>
+  </nav>
+  <div class="mega" id="mg">
+    <div class="ml">
+      <a href={url(lang)}>{n[0]}</a>
+      {links.map(([href, i]) => <a href={href}>{n[i]}</a>)}
+    </div>
+    {[0, 1, 2, 3].map((g) => (
+      <div>
+        <h4>{G[lang][g]}</h4>
+        {S.filter((s) => s.g === g).map((s) => (
+          <a href={serviceUrl(lang, s.s)} style={`--c:${s.c}`}><i></i>{s.L[lang][0]}</a>
+        ))}
+      </div>
+    ))}
+    <div class="mf"><a href={url(lang, '#servicos')}>{x.all}</a><a class="btn t mc" href="#contato">{x.cta}</a></div>
+  </div>
+</header>

@@ -1,0 +1,72 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/Hero.astro';
+import Divider from '../../components/Divider.astro';
+import Faq from '../../components/Faq.astro';
+import { langs, S, G, U, IC, MI, VC, seoHome, serviceUrl, orgId, num, type Lang } from '../../lib/site';
+
+export function getStaticPaths() {
+  return langs.map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as Lang;
+const x = U[lang];
+const stepColors = ['#ff5a36', '#d98e00', '#12a37a', '#3b4cca'];
+const [title, description] = seoHome[lang];
+const site = Astro.site ?? new URL('https://www.seudominio.com');
+const jsonld = [{
+  '@id': orgId(site),
+  hasOfferCatalog: { '@type': 'OfferCatalog', name: x.sk, itemListElement: S.map((s) => ({ '@type': 'Offer', itemOffered: { '@type': 'Service', name: s.L[lang][0], description: s.L[lang][1], url: new URL(serviceUrl(lang, s.s), site).href } })) },
+}];
+---
+<Base lang={lang} title={title} description={description} jsonld={jsonld}>
+  <Hero lang={lang} />
+  <Divider />
+
+  <section id="servicos"><div class="w">
+    <div class="k">{x.sk}</div><h2>{x.sh}</h2><p class="lead">{x.sl}</p>
+    {[0, 1, 2, 3].map((g) => (
+      <>
+        <div class="gh"><h3>{G[lang][g]}</h3></div>
+        <div class="bento">
+          {S.map((s, i) => s.g === g && (
+            <a class="bc" style={`--c:${s.c}`} href={serviceUrl(lang, s.s)}>
+              <span class="ic" set:html={IC[s.s]} /><span class="n">{num(i)}</span>
+              <h3>{s.L[lang][0]}</h3><p>{s.L[lang][1]}</p>
+              <span class="go">{x.see} <span>→</span></span>
+            </a>
+          ))}
+        </div>
+      </>
+    ))}
+  </div></section>
+  <Divider />
+
+  <section id="metodo"><div class="w">
+    <div class="k">{x.mk}</div><h2>{x.mh}</h2>
+    <div class="steps">
+      {x.ms.map((a: string[], i: number) => (
+        <div class="st" style={`--c:${stepColors[i]}`}><span class="ic" set:html={MI[i]} /><b>0{i + 1}</b><h3>{a[0]}</h3><p>{a[1]}</p></div>
+      ))}
+    </div>
+  </div></section>
+  <Divider />
+
+  <section id="sobre"><div class="w">
+    <div class="k">{x.rk}</div><h2>{x.rh}</h2><p class="lead">{x.rl}</p>
+    <div class="ab2" style="margin-top:30px">
+      <div><p class="ab">{x.ab}</p><p class="vh">{x.vh}</p></div>
+      <div class="vl" id="cap">
+        {x.vals.map((a: string[], k: number) => (
+          <button class="vr" data-v={k} aria-expanded="false" style={`--c:${VC[k]}`}>
+            <span class="vh2"><i class="no">0{k + 1}</i><b>{a[1]}</b><small>{a[2]}</small><span class="og3">{a[0]}</span><i class="pl">+</i></span>
+            <span class="vd"><span class="vi2"><span class="vi3"><span>{a[3]}</span><span class="r3"><em>{x.rr}</em>{a[4]}</span></span></span></span>
+            <i class="pb"></i>
+          </button>
+        ))}
+      </div>
+    </div>
+  </div></section>
+  <Divider />
+
+  <section id="faq"><div class="w"><Faq k={x.faqk} h={x.faqh} items={x.faq} /></div></section>
+</Base>

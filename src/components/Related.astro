@@ -1,0 +1,21 @@
+---
+import { S, IC, U, serviceUrl, num, type Lang } from '../lib/site';
+interface Props { lang: Lang; id: string }
+const { lang, id } = Astro.props;
+const x = U[lang];
+const me = S.find((s) => s.s === id)!;
+const others = S.filter((s) => s.s !== id);
+const rel = [...others.filter((s) => s.g === me.g), ...others.filter((s) => s.g !== me.g)].slice(0, 3);
+---
+<section class="rel">
+  <div class="k">{x.relk}</div>
+  <div class="bento">
+    {rel.map((s) => (
+      <a class="bc" style={`--c:${s.c}`} href={serviceUrl(lang, s.s)}>
+        <span class="ic" set:html={IC[s.s]} /><span class="n">{num(S.indexOf(s))}</span>
+        <h3>{s.L[lang][0]}</h3><p>{s.L[lang][1]}</p>
+        <span class="go">{x.see} <span>→</span></span>
+      </a>
+    ))}
+  </div>
+</section>

@@ -1,0 +1,30 @@
+---
+import { langs, U, S, G, url, serviceUrl, langNames, type Lang } from '../lib/site';
+interface Props { lang: Lang; paths: Record<Lang, string> }
+const { lang, paths } = Astro.props;
+const x = U[lang];
+---
+<footer>
+  <div class="w">
+    <nav class="fn" aria-label="Rodapé">
+      {[0, 1, 2, 3].map((g) => (
+        <div>
+          <h4>{G[lang][g]}</h4>
+          {S.filter((s) => s.g === g).map((s) => <a href={serviceUrl(lang, s.s)}>{s.L[lang][0]}</a>)}
+        </div>
+      ))}
+      <div>
+        <h4>Quipu</h4>
+        <a href={url(lang)}>{x.nav[0]}</a>
+        <a href={url(lang, '#metodo')}>{x.nav[2]}</a>
+        <a href={url(lang, '#sobre')}>{x.nav[3]}</a>
+        <a href="#contato">{x.nav[5]}</a>
+        {langs.map((l) => <a href={url(l, paths[l])} hreflang={l} lang={l}>{langNames[l]}</a>)}
+      </div>
+    </nav>
+  </div>
+  <div class="w" id="ft">
+    <span class="fl"><img class="l1" src="/logo/arara.webp" width="62" height="76" alt="" loading="lazy" /><img class="l3 wm" src="/logo/quipu-completo.webp" width="111" height="38" alt="Quipu Consultoria e Agência" loading="lazy" /></span>
+    <span>© {new Date().getFullYear()} · {x.foot}</span>
+  </div>
+</footer>

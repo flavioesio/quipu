@@ -1,0 +1,588 @@
+{
+ "G": {
+  "pt": [
+   "Marketing e conteúdo",
+   "Web e produto digital",
+   "IA e automação",
+   "Equipes dedicadas"
+  ],
+  "en": [
+   "Marketing and content",
+   "Web and digital product",
+   "AI and automation",
+   "Dedicated teams"
+  ],
+  "es": [
+   "Marketing y contenido",
+   "Web y producto digital",
+   "IA y automatización",
+   "Equipos dedicados"
+  ]
+ },
+ "U": {
+  "pt": {
+   "nav": [
+    "Início",
+    "Serviços",
+    "Método",
+    "Quem somos",
+    "Resultados",
+    "Contato"
+   ],
+   "all": "Ver todos os serviços →",
+   "hv": [
+    "Olá! Quero crescer nas redes",
+    "Claro! Já te envio um plano 🚀",
+    "Vídeo com IA · 0:15",
+    "Hoje",
+    "Plano de ação",
+    "Anúncios · Vídeo IA · WhatsApp",
+    "Ver plano",
+    "Mensagem"
+   ],
+   "tb": "Atendimento em português, inglês e espanhol",
+   "cta": "Pedir proposta",
+   "pill": "Lima × São Paulo · Marketing, web e IA",
+   "h1a": "Marketing digital, IA e automação ",
+   "h1b": "para a sua empresa crescer.",
+   "hp": "Marketing, desenvolvimento e inteligência artificial para conectar sua marca a clientes nos dois lados do continente.",
+   "b1": "Ver serviços e planos",
+   "b2": "Falar com a gente",
+   "sk": "Serviços",
+   "sh": "Serviços de marketing, tecnologia e IA, cada um com um plano claro.",
+   "sl": "Escolha um serviço para ver o plano de ação completo.",
+   "see": "Ver plano de ação",
+   "mk": "Método",
+   "mh": "Como trabalhamos",
+   "ms": [
+    [
+     "Diagnosticar",
+     "Ouvimos e medimos antes de propor."
+    ],
+    [
+     "Planejar",
+     "Metas, cronograma e orçamento claros."
+    ],
+    [
+     "Executar",
+     "Ciclos curtos com entregas visíveis."
+    ],
+    [
+     "Evoluir",
+     "Dados guiam cada ajuste."
+    ]
+   ],
+   "rk": "Quem somos",
+   "rh": "Nossa empresa e nossa cultura",
+   "rl": "Raízes andinas e brasileiras, uma só equipe: é isso que guia o nosso jeito de trabalhar.",
+   "mt": "Missão",
+   "m": "Fazer marcas crescerem de forma humana e mensurável, unindo criatividade, tecnologia e inteligência artificial.",
+   "vt": "Visão",
+   "v": "Ser a parceira digital em que as empresas confiam, pelos resultados que entregamos e pelo cuidado com as pessoas.",
+   "vk": "Valores",
+   "ab": "A Quipu Tropical é uma agência digital que reúne marketing, desenvolvimento e inteligência artificial em um único time, com raízes andinas e brasileiras. Nossa missão é fazer marcas crescerem de forma humana e mensurável, unindo criatividade, tecnologia e IA. Nossa visão é ser a parceira digital em que as empresas confiam, pelos resultados que entregamos e pelo cuidado com as pessoas.",
+   "vh": "Toque em um valor para ver como ele muda o seu projeto.",
+   "rr": "O que muda para você",
+   "vals": [
+    [
+     "Andes · Quéchua",
+     "Ayni",
+     "Reciprocidade",
+     "Dar e receber em equilíbrio: só crescemos quando você cresce.",
+     "Metas compartilhadas e parceria de longo prazo, não só entregas pontuais."
+    ],
+    [
+     "Andes · Inca",
+     "Quipu",
+     "Método e memória",
+     "Cada decisão é registrada e medida, como os nós que guardavam dados.",
+     "Relatórios claros e histórico completo para decidir com segurança."
+    ],
+    [
+     "Andes · Quéchua",
+     "Minka",
+     "Trabalho coletivo",
+     "Todos somam para um objetivo comum, cada talento no seu lugar.",
+     "Equipes multidisciplinares que entregam juntas, sem silos."
+    ],
+    [
+     "Brasil",
+     "Jogo de cintura",
+     "Criatividade e adaptação",
+     "Improvisar com método: testar rápido, ajustar e seguir em frente.",
+     "Respostas ágeis a imprevistos e ideias novas durante o projeto."
+    ],
+    [
+     "Brasil",
+     "Calor humano",
+     "Proximidade",
+     "Conversa direta, escuta de verdade e feedback honesto.",
+     "Comunicação simples, confiança e decisões sem burocracia."
+    ],
+    [
+     "Brasil",
+     "Alegria com propósito",
+     "Energia que contagia",
+     "Gostar do que se faz dá vida ao que se entrega.",
+     "Campanhas e conteúdos com personalidade, que as pessoas querem ver."
+    ]
+   ],
+   "ct1": "Vamos tecer resultados juntos?",
+   "ct2": [
+    "Metas e orçamento definidos antes de começar",
+    "Relatórios mensais claros e objetivos",
+    "Contato direto com quem executa o trabalho"
+   ],
+   "ct3": "Falar com a equipe",
+   "nums": [
+    "marcas atendidas",
+    "países de origem",
+    "anos de trajetória",
+    "prêmios regionais"
+   ],
+   "back": "← Todos os serviços",
+   "plan": "Plano de ação",
+   "who": "Para quem é",
+   "get": "O que você recebe",
+   "stk": "Etapas",
+   "sth": "Passo a passo",
+   "gk": "Metas de referência",
+   "gh": "Resultados esperados",
+   "note": "Valores ilustrativos, definidos conforme o diagnóstico de cada projeto.",
+   "want": "Quero este plano",
+   "wk": "Semana",
+   "ck": "Contato",
+   "ch": "Vamos tecer o primeiro nó?",
+   "cl": "Conte seu objetivo e devolvemos um plano inicial em até 3 dias úteis.",
+   "ph": [
+    "Nome",
+    "E-mail",
+    "Fale sobre seu projeto"
+   ],
+   "send": "Enviar",
+   "ok": "Obrigado! Retornaremos em breve.",
+   "foot": "Marca fictícia de demonstração",
+   "err": "Não foi possível enviar agora. Tente de novo ou fale conosco pelo WhatsApp.",
+   "abk": "Sobre o serviço",
+   "faqk": "Perguntas frequentes",
+   "faqh": "Tire suas dúvidas antes de começar",
+   "relk": "Serviços relacionados",
+   "faq": [
+    [
+     "Quais serviços de marketing digital e tecnologia a Quipu oferece?",
+     "Oferecemos tráfego pago, SEO, gestão de redes sociais, marketing de influência, vídeo com IA, criação e desenvolvimento de sites, integração de IA, automação com n8n, agentes de IA, WhatsApp Business com IA e alocação de profissionais."
+    ],
+    [
+     "A Quipu atende empresas de qualquer país?",
+     "Sim. Trabalhamos em português, espanhol e inglês e atendemos empresas de qualquer lugar, com reuniões online e relatórios no idioma do cliente."
+    ],
+    [
+     "Quanto tempo leva para receber um plano de ação?",
+     "Depois do seu contato, enviamos um plano de ação inicial em até 3 dias úteis, com etapas, metas e orçamento."
+    ],
+    [
+     "Vocês criam agentes de IA e automações para WhatsApp e CRM?",
+     "Sim. Criamos agentes de IA, fluxos de automação no n8n e integrações com a API oficial do WhatsApp Business, CRM, pagamentos e catálogo."
+    ],
+    [
+     "Como funciona a alocação de profissionais?",
+     "Definimos o perfil e o escopo, apresentamos candidatos já avaliados e integramos o especialista à sua equipe, com acompanhamento e ajuste do tamanho do time."
+    ]
+   ],
+   "sf": [
+    [
+     "Para quem é o serviço de {t}?",
+     "{who}"
+    ],
+    [
+     "O que está incluído em {t}?",
+     "O plano tem três etapas, nesta ordem: {p1}; {p2}; e {p3}. Todas com metas e relatórios claros."
+    ],
+    [
+     "Quanto tempo leva para ver resultados?",
+     "O trabalho começa na primeira semana e segue de forma contínua. Prazos e metas exatos são definidos no diagnóstico de cada projeto."
+    ],
+    [
+     "Como começar?",
+     "Envie uma mensagem pelo formulário ou pelo WhatsApp. Você recebe um plano de ação inicial em até 3 dias úteis."
+    ]
+   ]
+  },
+  "en": {
+   "nav": [
+    "Home",
+    "Services",
+    "Method",
+    "About us",
+    "Results",
+    "Contact"
+   ],
+   "all": "View all services →",
+   "hv": [
+    "Hi! I want to grow my brand",
+    "Sure! Sending your plan now 🚀",
+    "AI video · 0:15",
+    "Today",
+    "Action plan",
+    "Ads · AI video · WhatsApp",
+    "View plan",
+    "Message"
+   ],
+   "tb": "Support in Portuguese, English and Spanish",
+   "cta": "Get a proposal",
+   "pill": "Lima × São Paulo · Marketing, web and AI",
+   "h1a": "Digital marketing, AI and automation ",
+   "h1b": "to grow your business.",
+   "hp": "Marketing, development and artificial intelligence to connect your brand with customers on both sides of the continent.",
+   "b1": "See services and plans",
+   "b2": "Talk to us",
+   "sk": "Services",
+   "sh": "Marketing, technology and AI services, each with a clear plan.",
+   "sl": "Pick a service to see its full action plan.",
+   "see": "See action plan",
+   "mk": "Method",
+   "mh": "How we work",
+   "ms": [
+    [
+     "Diagnose",
+     "We listen and measure before proposing."
+    ],
+    [
+     "Plan",
+     "Clear goals, schedule and budget."
+    ],
+    [
+     "Execute",
+     "Short cycles with visible deliveries."
+    ],
+    [
+     "Evolve",
+     "Data guides every adjustment."
+    ]
+   ],
+   "rk": "About us",
+   "rh": "Our company and our culture",
+   "rl": "Andean and Brazilian roots, one team: that is what guides the way we work.",
+   "mt": "Mission",
+   "m": "Help brands grow in a human, measurable way, combining creativity, technology and artificial intelligence.",
+   "vt": "Vision",
+   "v": "To be the digital partner companies trust, for the results we deliver and the care we show people.",
+   "vk": "Values",
+   "ab": "Quipu Tropical is a digital agency that brings marketing, development and artificial intelligence together in one team, with Andean and Brazilian roots. Our mission is to help brands grow in a human, measurable way, combining creativity, technology and AI. Our vision is to be the digital partner companies trust, for the results we deliver and the care we show people.",
+   "vh": "Tap a value to see how it changes your project.",
+   "rr": "What changes for you",
+   "vals": [
+    [
+     "Andes · Quechua",
+     "Ayni",
+     "Reciprocity",
+     "Giving and receiving in balance: we only grow when you grow.",
+     "Shared goals and long-term partnership, not one-off deliveries."
+    ],
+    [
+     "Andes · Inca",
+     "Quipu",
+     "Method and memory",
+     "Every decision is recorded and measured, like the knots that held data.",
+     "Clear reports and a full history to decide with confidence."
+    ],
+    [
+     "Andes · Quechua",
+     "Minka",
+     "Collective work",
+     "Everyone contributes to a shared goal, each talent in its place.",
+     "Multidisciplinary teams delivering together, without silos."
+    ],
+    [
+     "Brazil",
+     "Jogo de cintura",
+     "Creativity and adaptability",
+     "Improvising with method: test fast, adjust and keep moving.",
+     "Quick answers to surprises and fresh ideas throughout the project."
+    ],
+    [
+     "Brazil",
+     "Calor humano",
+     "Closeness",
+     "Direct conversation, real listening and honest feedback.",
+     "Simple communication, trust and decisions without red tape."
+    ],
+    [
+     "Brazil",
+     "Alegria com propósito",
+     "Contagious energy",
+     "Enjoying the work brings life to what we deliver.",
+     "Campaigns and content with personality that people want to watch."
+    ]
+   ],
+   "ct1": "Shall we weave results together?",
+   "ct2": [
+    "Goals and budget set before we start",
+    "Clear, objective monthly reports",
+    "Direct contact with the people doing the work"
+   ],
+   "ct3": "Talk to the team",
+   "nums": [
+    "brands served",
+    "home countries",
+    "years of experience",
+    "regional awards"
+   ],
+   "back": "← All services",
+   "plan": "Action plan",
+   "who": "Who it is for",
+   "get": "What you get",
+   "stk": "Steps",
+   "sth": "Step by step",
+   "gk": "Reference goals",
+   "gh": "Expected results",
+   "note": "Illustrative figures, set after each project diagnosis.",
+   "want": "I want this plan",
+   "wk": "Week",
+   "ck": "Contact",
+   "ch": "Ready to tie the first knot?",
+   "cl": "Tell us your goal and we will send an initial plan within 3 business days.",
+   "ph": [
+    "Name",
+    "Email",
+    "Tell us about your project"
+   ],
+   "send": "Send",
+   "ok": "Thank you! We will be in touch soon.",
+   "foot": "Fictional demo brand",
+   "err": "We could not send your message. Please try again or reach us on WhatsApp.",
+   "abk": "About the service",
+   "faqk": "Frequently asked questions",
+   "faqh": "Answers before you get started",
+   "relk": "Related services",
+   "faq": [
+    [
+     "What digital marketing and technology services does Quipu offer?",
+     "We offer paid media, SEO, social media management, influencer marketing, AI video, website design and development, AI integration, n8n automation, AI agents, WhatsApp Business with AI and staff augmentation."
+    ],
+    [
+     "Does Quipu work with companies from any country?",
+     "Yes. We work in Portuguese, Spanish and English and serve companies anywhere, with online meetings and reports in the client's language."
+    ],
+    [
+     "How long until I receive an action plan?",
+     "After you get in touch, we send an initial action plan within 3 business days, with stages, goals and budget."
+    ],
+    [
+     "Do you build AI agents and automations for WhatsApp and CRM?",
+     "Yes. We build AI agents, n8n automation workflows and integrations with the official WhatsApp Business API, CRM, payments and catalog."
+    ],
+    [
+     "How does staff augmentation work?",
+     "We define the profile and scope, present vetted candidates and embed the specialist in your team, with follow-up and flexible team size."
+    ]
+   ],
+   "sf": [
+    [
+     "Who is {t} for?",
+     "{who}"
+    ],
+    [
+     "What does {t} include?",
+     "The plan has three stages, in this order: {p1}; {p2}; and {p3}. Each comes with clear goals and reports."
+    ],
+    [
+     "How long until I see results?",
+     "Work starts in week one and continues steadily. Exact timelines and goals are set in each project's diagnosis."
+    ],
+    [
+     "How do I get started?",
+     "Send a message through the form or WhatsApp. You receive an initial action plan within 3 business days."
+    ]
+   ]
+  },
+  "es": {
+   "nav": [
+    "Inicio",
+    "Servicios",
+    "Método",
+    "Quiénes somos",
+    "Resultados",
+    "Contacto"
+   ],
+   "all": "Ver todos los servicios →",
+   "hv": [
+    "¡Hola! Quiero crecer en redes",
+    "¡Claro! Te envío un plan 🚀",
+    "Video con IA · 0:15",
+    "Hoy",
+    "Plan de acción",
+    "Anuncios · Video IA · WhatsApp",
+    "Ver plan",
+    "Mensaje"
+   ],
+   "tb": "Atención en portugués, inglés y español",
+   "cta": "Pedir propuesta",
+   "pill": "Lima × São Paulo · Marketing, web e IA",
+   "h1a": "Marketing digital, IA y automatización ",
+   "h1b": "para que tu empresa crezca.",
+   "hp": "Marketing, desarrollo e inteligencia artificial para conectar tu marca con clientes a ambos lados del continente.",
+   "b1": "Ver servicios y planes",
+   "b2": "Hablemos",
+   "sk": "Servicios",
+   "sh": "Servicios de marketing, tecnología e IA, cada uno con un plan claro.",
+   "sl": "Elige un servicio para ver su plan de acción completo.",
+   "see": "Ver plan de acción",
+   "mk": "Método",
+   "mh": "Cómo trabajamos",
+   "ms": [
+    [
+     "Diagnosticar",
+     "Escuchamos y medimos antes de proponer."
+    ],
+    [
+     "Planificar",
+     "Metas, cronograma y presupuesto claros."
+    ],
+    [
+     "Ejecutar",
+     "Ciclos cortos con entregas visibles."
+    ],
+    [
+     "Evolucionar",
+     "Los datos guían cada ajuste."
+    ]
+   ],
+   "rk": "Quiénes somos",
+   "rh": "Nuestra empresa y nuestra cultura",
+   "rl": "Raíces andinas y brasileñas, un solo equipo: eso guía nuestra forma de trabajar.",
+   "mt": "Misión",
+   "m": "Hacer crecer a las marcas de forma humana y medible, uniendo creatividad, tecnología e inteligencia artificial.",
+   "vt": "Visión",
+   "v": "Ser el socio digital en quien las empresas confían, por los resultados que entregamos y el cuidado hacia las personas.",
+   "vk": "Valores",
+   "ab": "Quipu Tropical es una agencia digital que reúne marketing, desarrollo e inteligencia artificial en un solo equipo, con raíces andinas y brasileñas. Nuestra misión es hacer crecer a las marcas de forma humana y medible, uniendo creatividad, tecnología e IA. Nuestra visión es ser el socio digital en quien las empresas confían, por los resultados que entregamos y el cuidado hacia las personas.",
+   "vh": "Toca un valor para ver cómo cambia tu proyecto.",
+   "rr": "Qué cambia para ti",
+   "vals": [
+    [
+     "Andes · Quechua",
+     "Ayni",
+     "Reciprocidad",
+     "Dar y recibir en equilibrio: solo crecemos cuando tú creces.",
+     "Metas compartidas y alianza a largo plazo, no solo entregas puntuales."
+    ],
+    [
+     "Andes · Inca",
+     "Quipu",
+     "Método y memoria",
+     "Cada decisión se registra y se mide, como los nudos que guardaban datos.",
+     "Informes claros e historial completo para decidir con seguridad."
+    ],
+    [
+     "Andes · Quechua",
+     "Minka",
+     "Trabajo colectivo",
+     "Todos suman por un objetivo común, cada talento en su lugar.",
+     "Equipos multidisciplinarios que entregan juntos, sin silos."
+    ],
+    [
+     "Brasil",
+     "Jogo de cintura",
+     "Creatividad y adaptación",
+     "Improvisar con método: probar rápido, ajustar y seguir.",
+     "Respuestas ágiles ante imprevistos e ideas nuevas durante el proyecto."
+    ],
+    [
+     "Brasil",
+     "Calor humano",
+     "Cercanía",
+     "Conversación directa, escucha real y feedback honesto.",
+     "Comunicación simple, confianza y decisiones sin burocracia."
+    ],
+    [
+     "Brasil",
+     "Alegria com propósito",
+     "Energía que contagia",
+     "Disfrutar lo que se hace da vida a lo que se entrega.",
+     "Campañas y contenidos con personalidad que la gente quiere ver."
+    ]
+   ],
+   "ct1": "¿Tejemos resultados juntos?",
+   "ct2": [
+    "Metas y presupuesto definidos antes de empezar",
+    "Informes mensuales claros y objetivos",
+    "Contacto directo con quien ejecuta el trabajo"
+   ],
+   "ct3": "Hablar con el equipo",
+   "nums": [
+    "marcas atendidas",
+    "países de origen",
+    "años de trayectoria",
+    "premios regionales"
+   ],
+   "back": "← Todos los servicios",
+   "plan": "Plan de acción",
+   "who": "Para quién es",
+   "get": "Qué recibes",
+   "stk": "Etapas",
+   "sth": "Paso a paso",
+   "gk": "Metas de referencia",
+   "gh": "Resultados esperados",
+   "note": "Valores ilustrativos, definidos según el diagnóstico de cada proyecto.",
+   "want": "Quiero este plan",
+   "wk": "Semana",
+   "ck": "Contacto",
+   "ch": "¿Tejemos el primer nudo?",
+   "cl": "Cuéntanos tu objetivo y te enviamos un plan inicial en hasta 3 días hábiles.",
+   "ph": [
+    "Nombre",
+    "Correo",
+    "Cuéntanos sobre tu proyecto"
+   ],
+   "send": "Enviar",
+   "ok": "¡Gracias! Te responderemos pronto.",
+   "foot": "Marca ficticia de demostración",
+   "err": "No pudimos enviar tu mensaje. Inténtalo de nuevo o escríbenos por WhatsApp.",
+   "abk": "Sobre el servicio",
+   "faqk": "Preguntas frecuentes",
+   "faqh": "Resuelve tus dudas antes de empezar",
+   "relk": "Servicios relacionados",
+   "faq": [
+    [
+     "¿Qué servicios de marketing digital y tecnología ofrece Quipu?",
+     "Ofrecemos publicidad digital, SEO, gestión de redes sociales, marketing de influencers, video con IA, diseño y desarrollo web, integración de IA, automatización con n8n, agentes de IA, WhatsApp Business con IA y staff augmentation."
+    ],
+    [
+     "¿Quipu atiende a empresas de cualquier país?",
+     "Sí. Trabajamos en portugués, español e inglés y atendemos empresas de cualquier lugar, con reuniones online e informes en el idioma del cliente."
+    ],
+    [
+     "¿Cuánto tarda en llegar un plan de acción?",
+     "Después de tu contacto, enviamos un plan de acción inicial en hasta 3 días hábiles, con etapas, metas y presupuesto."
+    ],
+    [
+     "¿Crean agentes de IA y automatizaciones para WhatsApp y CRM?",
+     "Sí. Creamos agentes de IA, flujos de automatización en n8n e integraciones con la API oficial de WhatsApp Business, CRM, pagos y catálogo."
+    ],
+    [
+     "¿Cómo funciona el staff augmentation?",
+     "Definimos el perfil y el alcance, presentamos candidatos ya evaluados e integramos al especialista en tu equipo, con seguimiento y tamaño de equipo flexible."
+    ]
+   ],
+   "sf": [
+    [
+     "¿Para quién es {t}?",
+     "{who}"
+    ],
+    [
+     "¿Qué incluye {t}?",
+     "El plan tiene tres etapas, en este orden: {p1}; {p2}; y {p3}. Todas con metas e informes claros."
+    ],
+    [
+     "¿Cuánto tarda en verse resultados?",
+     "El trabajo empieza en la primera semana y sigue de forma continua. Los plazos y metas exactos se definen en el diagnóstico de cada proyecto."
+    ],
+    [
+     "¿Cómo empezar?",
+     "Envía un mensaje por el formulario o por WhatsApp. Recibes un plan de acción inicial en hasta 3 días hábiles."
+    ]
+   ]
+  }
+ }
+}

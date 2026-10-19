@@ -1,0 +1,77 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Contact from '../components/Contact.astro';
+import Divider from '../components/Divider.astro';
+import { langs, htmlLang, U, url, brand, contact, orgId, type Lang } from '../lib/site';
+
+interface Props { lang: Lang; title: string; description: string; paths?: Record<Lang, string>; jsonld?: object[]; noindex?: boolean }
+const { lang, title, description, paths = { pt: '', en: '', es: '' }, jsonld = [], noindex = false } = Astro.props;
+const x = U[lang];
+const site = Astro.site ?? new URL('https://www.seudominio.com');
+const abs = (l: Lang) => new URL(url(l, paths[l]), site).href;
+const ogImg = new URL('/og/og-default.png', site).href;
+const graph = [
+  {
+    '@type': ['Organization', 'ProfessionalService'], '@id': orgId(site),
+    name: brand.name, alternateName: brand.alt, url: `${site.origin}/`,
+    logo: { '@type': 'ImageObject', url: new URL('/logo/logo-512.png', site).href, width: 512, height: 512 },
+    image: ogImg, email: contact.email, telephone: `+${contact.whatsapp[0].number}`,
+    contactPoint: [{ '@type': 'ContactPoint', contactType: 'sales', email: contact.email, telephone: `+${contact.whatsapp[0].number}`, availableLanguage: ['Portuguese', 'Spanish', 'English'] }],
+    areaServed: brand.areaServed, knowsLanguage: ['pt-BR', 'es', 'en'], sameAs: brand.social,
+    ...(brand.address ? { address: { '@type': 'PostalAddress', ...brand.address } } : {}),
+  },
+  { '@type': 'WebSite', '@id': `${site.origin}/#website`, url: `${site.origin}/`, name: brand.alt, inLanguage: ['pt-BR', 'es', 'en'], publisher: { '@id': orgId(site) } },
+  ...jsonld,
+];
+const ld = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph });
+const gaId = import.meta.env.PUBLIC_GA_ID as string | undefined;
+---
+<!doctype html>
+<html lang={htmlLang[lang]}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={noindex ? 'noindex,follow' : 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'} />
+    <meta name="theme-color" content="#f7f1e6" />
+    <link rel="canonical" href={abs(lang)} />
+    {langs.map((l) => <link rel="alternate" hreflang={htmlLang[l]} href={abs(l)} />)}
+    <link rel="alternate" hreflang="x-default" href={abs('pt')} />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="icon" type="image/webp" href="/logo/arara.webp" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={brand.alt} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={abs(lang)} />
+    <meta property="og:image" content={ogImg} />
+    <meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={brand.alt} />
+    <meta property="og:locale" content={htmlLang[lang].replace('-', '_')} />
+    {langs.filter((l) => l !== lang).map((l) => <meta property="og:locale:alternate" content={htmlLang[l].replace('-', '_')} />)}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImg} />
+    <script type="application/ld+json" set:html={ld} />
+    {gaId && (<>
+      <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+      <script is:inline set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${gaId}');`}></script>
+    </>)}
+  </head>
+  <body>
+    <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+    <Header lang={lang} paths={paths} />
+    <main id="v"><slot /></main>
+    <Divider />
+    <Contact lang={lang} />
+    <Divider />
+    <Footer lang={lang} paths={paths} />
+    <script>import '../scripts/ui.ts';</script>
+  </body>
+</html>

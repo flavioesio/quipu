@@ -1,0 +1,938 @@
+[
+ {
+  "s": "midia-paga",
+  "c": "#ff5a36",
+  "g": 0,
+  "kv": [
+   "-30%",
+   "3x",
+   "+40%"
+  ],
+  "L": {
+   "pt": [
+    "Mídia paga",
+    "Campanhas em Google, Meta e TikTok que transformam verba em vendas mensuráveis.",
+    "Marcas que querem escalar vendas com orçamento controlado.",
+    [
+     "Diagnóstico e metas",
+     "Auditamos contas e funil e definimos CAC e ROAS alvo.",
+     "Estrutura e criativos",
+     "Campanhas por etapa do funil e anúncios bilíngues.",
+     "Teste e escala",
+     "Testes A/B semanais e verba para o que converte."
+    ],
+    [
+     "custo por aquisição",
+     "retorno do investimento",
+     "taxa de cliques"
+    ],
+    [
+     "O objetivo é transformar verba de anúncios em vendas que você consegue medir. Atuamos em Google, Meta e TikTok para marcas que querem crescer com orçamento controlado e saber exatamente o que traz retorno.",
+     "Você recebe contas e funil auditados, campanhas organizadas por etapa, anúncios bilíngues e um relatório semanal. A verba migra, aos poucos, para o que mais converte."
+    ]
+   ],
+   "en": [
+    "Paid media",
+    "Google, Meta and TikTok campaigns that turn budget into measurable sales.",
+    "Brands wanting to scale sales on a controlled budget.",
+    [
+     "Diagnosis and goals",
+     "We audit accounts and funnel and set target CAC and ROAS.",
+     "Structure and creatives",
+     "Funnel-stage campaigns and bilingual ads.",
+     "Testing and scale",
+     "Weekly A/B tests and budget shifted to what converts."
+    ],
+    [
+     "cost per acquisition",
+     "return on investment",
+     "click-through rate"
+    ],
+    [
+     "The goal is to turn ad spend into sales you can measure. We run Google, Meta and TikTok campaigns for brands that want to grow on a controlled budget and know exactly what brings a return.",
+     "You get audited accounts and funnel, campaigns organized by stage, bilingual ads and a weekly report. Budget gradually shifts to whatever converts best."
+    ]
+   ],
+   "es": [
+    "Publicidad paga",
+    "Campañas en Google, Meta y TikTok que convierten presupuesto en ventas medibles.",
+    "Marcas que quieren escalar ventas con presupuesto controlado.",
+    [
+     "Diagnóstico y metas",
+     "Auditamos cuentas y embudo y definimos CAC y ROAS objetivo.",
+     "Estructura y creativos",
+     "Campañas por etapa del embudo y anuncios bilingües.",
+     "Pruebas y escala",
+     "Pruebas A/B semanales y presupuesto a lo que convierte."
+    ],
+    [
+     "costo por adquisición",
+     "retorno de inversión",
+     "tasa de clics"
+    ],
+    [
+     "El objetivo es convertir la inversión en anuncios en ventas que puedas medir. Trabajamos en Google, Meta y TikTok para marcas que quieren crecer con presupuesto controlado y saber con exactitud qué da retorno.",
+     "Recibes cuentas y embudo auditados, campañas organizadas por etapa, anuncios bilingües y un informe semanal. El presupuesto se mueve, poco a poco, hacia lo que más convierte."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "seo",
+  "c": "#12a37a",
+  "g": 0,
+  "kv": [
+   "+120%",
+   "Top 3",
+   "+35%"
+  ],
+  "L": {
+   "pt": [
+    "SEO e busca",
+    "Posicionamento orgânico para ser encontrado onde seu cliente pesquisa.",
+    "Negócios que querem tráfego constante sem pagar por clique.",
+    [
+     "Auditoria técnica",
+     "Analisamos velocidade, indexação e erros que seguram o site.",
+     "Palavras-chave e conteúdo",
+     "Mapeamos termos em PT/ES e criamos páginas por intenção.",
+     "Autoridade e medição",
+     "Links de qualidade e painel mensal de posições e leads."
+    ],
+    [
+     "tráfego orgânico em 6 meses",
+     "palavras-chave principais",
+     "leads orgânicos"
+    ],
+    [
+     "O objetivo é fazer o seu site ser encontrado por quem já está procurando o que você vende, sem depender de pagar por cada clique. Serve para negócios que querem tráfego constante e crescimento a longo prazo.",
+     "Você recebe uma auditoria técnica, um mapa de palavras-chave em português e espanhol, conteúdos e páginas otimizados e um painel mensal com posições e contatos gerados."
+    ]
+   ],
+   "en": [
+    "SEO and search",
+    "Organic ranking so you are found wherever your customers search.",
+    "Businesses seeking steady traffic without paying per click.",
+    [
+     "Technical audit",
+     "We review speed, indexing and errors holding the site back.",
+     "Keywords and content",
+     "We map terms in PT/ES and build pages by search intent.",
+     "Authority and tracking",
+     "Quality backlinks and a monthly dashboard of rankings and leads."
+    ],
+    [
+     "organic traffic in 6 months",
+     "main keywords",
+     "organic leads"
+    ],
+    [
+     "The goal is for your site to be found by people already searching for what you sell, without paying for every click. It suits businesses that want steady traffic and long-term growth.",
+     "You get a technical audit, a keyword map in Portuguese and Spanish, optimized content and pages, and a monthly dashboard with rankings and leads generated."
+    ]
+   ],
+   "es": [
+    "SEO y búsqueda",
+    "Posicionamiento orgánico para que te encuentren donde tus clientes buscan.",
+    "Negocios que buscan tráfico constante sin pagar por clic.",
+    [
+     "Auditoría técnica",
+     "Revisamos velocidad, indexación y errores que frenan el sitio.",
+     "Palabras clave y contenido",
+     "Mapeamos términos en PT/ES y creamos páginas por intención.",
+     "Autoridad y medición",
+     "Enlaces de calidad y panel mensual de posiciones y leads."
+    ],
+    [
+     "tráfico orgánico en 6 meses",
+     "palabras clave principales",
+     "leads orgánicos"
+    ],
+    [
+     "El objetivo es que tu sitio sea encontrado por quien ya busca lo que vendes, sin pagar por cada clic. Sirve para negocios que quieren tráfico constante y crecimiento a largo plazo.",
+     "Recibes una auditoría técnica, un mapa de palabras clave en portugués y español, contenidos y páginas optimizados y un panel mensual con posiciones y contactos generados."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "redes-sociais",
+  "c": "#d98e00",
+  "g": 0,
+  "kv": [
+   "+80%",
+   "+25%",
+   "2x"
+  ],
+  "L": {
+   "pt": [
+    "Redes sociais",
+    "Conteúdo com ritmo e identidade para criar comunidade e gerar demanda.",
+    "Marcas que querem presença forte e público engajado.",
+    [
+     "Voz e calendário",
+     "Definimos voz, pilares e 30 dias de conteúdo com datas culturais.",
+     "Produção e comunidade",
+     "Produzimos, publicamos e moderamos diariamente.",
+     "Análise e crescimento",
+     "Dobramos o que funciona e testamos novos formatos."
+    ],
+    [
+     "engajamento",
+     "seguidores qualificados",
+     "mensagens recebidas"
+    ],
+    [
+     "O objetivo é construir uma presença com personalidade, que crie comunidade e também gere demanda. Funciona para marcas que querem aparecer com consistência e conversar com um público realmente engajado.",
+     "Você recebe a voz da marca definida, um calendário de 30 dias com datas culturais, produção e publicação dos conteúdos, moderação diária e análises para decidir o que repetir."
+    ]
+   ],
+   "en": [
+    "Social media",
+    "Content with rhythm and identity to build community and drive demand.",
+    "Brands wanting a strong presence and an engaged audience.",
+    [
+     "Voice and calendar",
+     "We define voice, pillars and 30 days of content with cultural dates.",
+     "Production and community",
+     "We create, publish and moderate every day.",
+     "Analysis and growth",
+     "We double down on what works and test new formats."
+    ],
+    [
+     "engagement",
+     "qualified followers",
+     "messages received"
+    ],
+    [
+     "The goal is to build a presence with personality that creates community and also drives demand. It works for brands that want to show up consistently and talk to a truly engaged audience.",
+     "You get a defined brand voice, a 30-day calendar with cultural dates, content production and publishing, daily moderation and analysis to decide what to repeat."
+    ]
+   ],
+   "es": [
+    "Redes sociales",
+    "Contenido con ritmo e identidad para crear comunidad y generar demanda.",
+    "Marcas que quieren presencia fuerte y público activo.",
+    [
+     "Voz y calendario",
+     "Definimos voz, pilares y 30 días de contenido con fechas culturales.",
+     "Producción y comunidad",
+     "Producimos, publicamos y moderamos a diario.",
+     "Análisis y crecimiento",
+     "Potenciamos lo que funciona y probamos nuevos formatos."
+    ],
+    [
+     "interacción",
+     "seguidores calificados",
+     "mensajes recibidos"
+    ],
+    [
+     "El objetivo es construir una presencia con personalidad, que cree comunidad y también genere demanda. Funciona para marcas que quieren aparecer con constancia y conversar con un público realmente activo.",
+     "Recibes la voz de marca definida, un calendario de 30 días con fechas culturales, producción y publicación de contenidos, moderación diaria y análisis para decidir qué repetir."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "influencia",
+  "c": "#8e3bd6",
+  "g": 0,
+  "kv": [
+   "5x",
+   "+60%",
+   "+30%"
+  ],
+  "L": {
+   "pt": [
+    "Influência",
+    "Criadores brasileiros e peruanos que realmente conhecem o seu público.",
+    "Marcas que buscam confiança e alcance com vozes autênticas.",
+    [
+     "Mapeamento",
+     "Selecionamos criadores por nicho, audiência e histórico.",
+     "Briefing e produção",
+     "Alinhamos entregas, direitos e prazos e acompanhamos a criação.",
+     "Resultados e reuso",
+     "Medimos vendas e reusamos o conteúdo em anúncios."
+    ],
+    [
+     "alcance orgânico",
+     "confiança na marca",
+     "vendas por cupom"
+    ],
+    [
+     "O objetivo é ganhar confiança e alcance por meio de criadores que realmente conhecem o seu público, no Brasil, no Peru e em outros países. É para marcas que preferem vozes autênticas à propaganda tradicional.",
+     "Você recebe a seleção de criadores por nicho e histórico, briefing e contratos alinhados, acompanhamento da produção, relatório de vendas e alcance e o reaproveitamento do conteúdo em anúncios."
+    ]
+   ],
+   "en": [
+    "Influencer marketing",
+    "Brazilian and Peruvian creators who truly know your audience.",
+    "Brands seeking trust and reach through authentic voices.",
+    [
+     "Mapping",
+     "We pick creators by niche, audience and track record.",
+     "Brief and production",
+     "We align deliverables, rights and deadlines, and follow creation.",
+     "Results and reuse",
+     "We measure sales and reuse the content in ads."
+    ],
+    [
+     "organic reach",
+     "brand trust",
+     "sales via coupons"
+    ],
+    [
+     "The goal is to earn trust and reach through creators who truly know your audience, in Brazil, Peru and beyond. It is for brands that prefer authentic voices over traditional advertising.",
+     "You get creators selected by niche and track record, aligned briefs and contracts, production follow-up, a sales and reach report, and the content reused in ads."
+    ]
+   ],
+   "es": [
+    "Influencers",
+    "Creadores brasileños y peruanos que de verdad conocen a tu público.",
+    "Marcas que buscan confianza y alcance con voces auténticas.",
+    [
+     "Mapeo",
+     "Elegimos creadores por nicho, audiencia e historial.",
+     "Brief y producción",
+     "Alineamos entregables, derechos y plazos y seguimos la creación.",
+     "Resultados y reuso",
+     "Medimos ventas y reutilizamos el contenido en anuncios."
+    ],
+    [
+     "alcance orgánico",
+     "confianza en la marca",
+     "ventas por cupón"
+    ],
+    [
+     "El objetivo es ganar confianza y alcance con creadores que realmente conocen a tu público, en Brasil, Perú y otros países. Es para marcas que prefieren voces auténticas a la publicidad tradicional.",
+     "Recibes la selección de creadores por nicho e historial, brief y contratos alineados, seguimiento de la producción, informe de ventas y alcance y el reuso del contenido en anuncios."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "video-ia",
+  "c": "#a21caf",
+  "g": 0,
+  "kv": [
+   "10x",
+   "-70%",
+   "+50%"
+  ],
+  "L": {
+   "pt": [
+    "Vídeo com IA",
+    "Vídeos para anúncios e redes feitos com IA generativa, rápidos e em vários idiomas.",
+    "Marcas que precisam de muito vídeo, com prazo e custo menores.",
+    [
+     "Roteiro e direção",
+     "Criamos roteiro, estilo visual e voz da marca, com revisão humana.",
+     "Geração e edição",
+     "Geramos cenas, avatares e locução com IA e finalizamos na edição.",
+     "Versões e testes",
+     "Versões em PT, EN e ES, em vários formatos, testadas em anúncios."
+    ],
+    [
+     "mais vídeos por mês",
+     "custo de produção",
+     "retenção de audiência"
+    ],
+    [
+     "O objetivo é produzir mais vídeos, mais rápido e a um custo menor, sem abrir mão da identidade da marca. Atende empresas que precisam de conteúdo em volume para anúncios e redes, em vários idiomas.",
+     "Você recebe roteiro, estilo visual e voz da marca revisados por uma pessoa, cenas, avatares e locução geradas com IA e finalizadas na edição, além de versões em PT, EN e ES testadas em anúncios."
+    ]
+   ],
+   "en": [
+    "AI video",
+    "Videos for ads and social made with generative AI, fast and multilingual.",
+    "Brands needing lots of video at lower cost and shorter lead times.",
+    [
+     "Script and direction",
+     "We craft the script, visual style and brand voice, with human review.",
+     "Generation and editing",
+     "We generate scenes, avatars and voiceover with AI and finish in the edit.",
+     "Versions and testing",
+     "PT, EN and ES versions in several formats, tested in ads."
+    ],
+    [
+     "more videos per month",
+     "production cost",
+     "audience retention"
+    ],
+    [
+     "The goal is to produce more videos, faster and at lower cost, without losing your brand identity. It serves companies that need content in volume for ads and social, in several languages.",
+     "You get a script, visual style and brand voice reviewed by a person, scenes, avatars and voiceover generated with AI and finished in the edit, plus PT, EN and ES versions tested in ads."
+    ]
+   ],
+   "es": [
+    "Video con IA",
+    "Videos para anuncios y redes hechos con IA generativa, rápidos y multilingües.",
+    "Marcas que necesitan mucho video con menos costo y plazo.",
+    [
+     "Guion y dirección",
+     "Creamos guion, estilo visual y voz de marca, con revisión humana.",
+     "Generación y edición",
+     "Generamos escenas, avatares y locución con IA y terminamos en edición.",
+     "Versiones y pruebas",
+     "Versiones en PT, EN y ES, en varios formatos, probadas en anuncios."
+    ],
+    [
+     "más videos por mes",
+     "costo de producción",
+     "retención de audiencia"
+    ],
+    [
+     "El objetivo es producir más videos, más rápido y a menor costo, sin perder la identidad de la marca. Atiende a empresas que necesitan contenido en volumen para anuncios y redes, en varios idiomas.",
+     "Recibes guion, estilo visual y voz de marca revisados por una persona, escenas, avatares y locución generados con IA y terminados en edición, además de versiones en PT, EN y ES probadas en anuncios."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "design-web",
+  "c": "#3b4cca",
+  "g": 1,
+  "kv": [
+   "+45%",
+   "-30%",
+   "100%"
+  ],
+  "L": {
+   "pt": [
+    "Design web",
+    "Interfaces com identidade andina e tropical que guiam o olhar até a conversão.",
+    "Quem precisa de site novo ou redesenho que venda mais.",
+    [
+     "Descoberta",
+     "Entendemos público e objetivos e definimos a arquitetura.",
+     "Wireframes e identidade",
+     "Prototipamos fluxos e criamos paleta, tipografia e padrões.",
+     "Design final e teste",
+     "Telas desktop e mobile validadas com usuários reais."
+    ],
+    [
+     "conversão da página",
+     "taxa de rejeição",
+     "responsivo"
+    ],
+    [
+     "O objetivo é criar uma interface bonita que também conduza o visitante até a ação que importa. Serve para quem precisa de um site novo ou de um redesenho que venda mais.",
+     "Você recebe a arquitetura do site, wireframes, a identidade visual (paleta, tipografia e padrões) e as telas finais para computador e celular, validadas com usuários reais antes do desenvolvimento."
+    ]
+   ],
+   "en": [
+    "Web design",
+    "Interfaces with Andean and tropical identity that guide the eye to conversion.",
+    "Anyone needing a new site or a redesign that sells more.",
+    [
+     "Discovery",
+     "We learn your audience and goals and define the architecture.",
+     "Wireframes and identity",
+     "We prototype flows and craft palette, type and patterns.",
+     "Final design and testing",
+     "Desktop and mobile screens validated with real users."
+    ],
+    [
+     "page conversion",
+     "bounce rate",
+     "responsive"
+    ],
+    [
+     "The goal is a beautiful interface that also leads visitors to the action that matters. It suits anyone who needs a new site or a redesign that sells more.",
+     "You get the site architecture, wireframes, the visual identity (palette, typography and patterns) and final desktop and mobile screens, validated with real users before development."
+    ]
+   ],
+   "es": [
+    "Diseño web",
+    "Interfaces con identidad andina y tropical que guían la mirada hacia la conversión.",
+    "Quien necesita un sitio nuevo o un rediseño que venda más.",
+    [
+     "Descubrimiento",
+     "Entendemos público y objetivos y definimos la arquitectura.",
+     "Wireframes e identidad",
+     "Prototipamos flujos y creamos paleta, tipografía y patrones.",
+     "Diseño final y prueba",
+     "Pantallas desktop y móvil validadas con usuarios reales."
+    ],
+    [
+     "conversión de la página",
+     "tasa de rebote",
+     "responsivo"
+    ],
+    [
+     "El objetivo es crear una interfaz atractiva que además conduzca al visitante a la acción que importa. Sirve para quien necesita un sitio nuevo o un rediseño que venda más.",
+     "Recibes la arquitectura del sitio, wireframes, la identidad visual (paleta, tipografía y patrones) y las pantallas finales para computadora y móvil, validadas con usuarios reales antes del desarrollo."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "desenvolvimento",
+  "c": "#0e8fa8",
+  "g": 1,
+  "kv": [
+   "<2s",
+   "99,9%",
+   "90+"
+  ],
+  "L": {
+   "pt": [
+    "Desenvolvimento web",
+    "Sites, lojas virtuais e apps rápidos, seguros e fáceis de manter.",
+    "Empresas que precisam de site, e-commerce ou sistema sob medida.",
+    [
+     "Escopo e arquitetura",
+     "Definimos requisitos, tecnologias, integrações e cronograma.",
+     "Desenvolvimento",
+     "Ciclos curtos com entregas semanais para você validar.",
+     "Testes e publicação",
+     "Desempenho, segurança, deploy, treinamento e suporte."
+    ],
+    [
+     "carregamento",
+     "disponibilidade",
+     "nota de desempenho"
+    ],
+    [
+     "O objetivo é colocar no ar sites, lojas virtuais e aplicativos rápidos, seguros e fáceis de manter. É para empresas que precisam de um site, de um e-commerce ou de um sistema feito sob medida.",
+     "Você recebe escopo e arquitetura definidos, desenvolvimento em ciclos curtos com entregas semanais para validar, testes de desempenho e segurança, publicação, treinamento da equipe e suporte."
+    ]
+   ],
+   "en": [
+    "Web development",
+    "Fast, secure, easy-to-maintain websites, online stores and apps.",
+    "Companies needing a website, e-commerce or custom system.",
+    [
+     "Scope and architecture",
+     "We define requirements, stack, integrations and timeline.",
+     "Development",
+     "Short cycles with weekly deliveries for you to validate.",
+     "Testing and launch",
+     "Performance, security, deploy, training and support."
+    ],
+    [
+     "load time",
+     "uptime",
+     "performance score"
+    ],
+    [
+     "The goal is to launch fast, secure and easy-to-maintain websites, online stores and apps. It is for companies that need a website, e-commerce or a custom-built system.",
+     "You get a defined scope and architecture, development in short cycles with weekly deliveries to validate, performance and security testing, launch, team training and support."
+    ]
+   ],
+   "es": [
+    "Desarrollo web",
+    "Sitios, tiendas online y apps rápidos, seguros y fáciles de mantener.",
+    "Empresas que necesitan sitio, e-commerce o sistema a medida.",
+    [
+     "Alcance y arquitectura",
+     "Definimos requisitos, tecnologías, integraciones y cronograma.",
+     "Desarrollo",
+     "Ciclos cortos con entregas semanales para que valides.",
+     "Pruebas y lanzamiento",
+     "Rendimiento, seguridad, deploy, capacitación y soporte."
+    ],
+    [
+     "carga",
+     "disponibilidad",
+     "puntaje de rendimiento"
+    ],
+    [
+     "El objetivo es lanzar sitios, tiendas online y aplicaciones rápidos, seguros y fáciles de mantener. Es para empresas que necesitan un sitio, un e-commerce o un sistema a medida.",
+     "Recibes alcance y arquitectura definidos, desarrollo en ciclos cortos con entregas semanales para validar, pruebas de rendimiento y seguridad, lanzamiento, capacitación del equipo y soporte."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "apis-ia",
+  "c": "#6d4aff",
+  "g": 2,
+  "kv": [
+   "-60%",
+   "<3s",
+   "24/7"
+  ],
+  "L": {
+   "pt": [
+    "Integração de APIs de IA",
+    "Conectamos modelos de IA (texto, voz, imagem) aos sistemas que sua empresa já usa.",
+    "Empresas que querem IA dentro de sites, CRMs e sistemas internos.",
+    [
+     "Caso de uso e dados",
+     "Escolhemos onde a IA gera mais valor e mapeamos dados e riscos.",
+     "Integração e prompts",
+     "Conectamos APIs, criamos prompts, limites e controle de custo.",
+     "Testes e monitoramento",
+     "Avaliamos qualidade, segurança e custo, com logs e alertas."
+    ],
+    [
+     "tempo em tarefas manuais",
+     "tempo de resposta",
+     "operação contínua"
+    ],
+    [
+     "O objetivo é levar inteligência artificial para dentro das ferramentas que sua empresa já usa, como site, CRM e sistemas internos. Indicado para quem quer ganhar tempo e qualidade sem trocar toda a operação.",
+     "Você recebe o caso de uso escolhido pelo valor que gera, a integração com as APIs de IA, prompts, limites e controle de custo, e o monitoramento de qualidade, segurança e gastos, com registros e alertas."
+    ]
+   ],
+   "en": [
+    "AI API integration",
+    "We connect AI models (text, voice, image) to the systems your company already uses.",
+    "Companies wanting AI inside websites, CRMs and internal tools.",
+    [
+     "Use case and data",
+     "We pick where AI adds most value and map data and risks.",
+     "Integration and prompts",
+     "We wire up APIs, craft prompts, limits and cost controls.",
+     "Testing and monitoring",
+     "We assess quality, safety and cost, with logs and alerts."
+    ],
+    [
+     "time on manual tasks",
+     "response time",
+     "always-on operation"
+    ],
+    [
+     "The goal is to bring artificial intelligence into the tools your company already uses, such as your website, CRM and internal systems. Ideal for anyone who wants to save time and raise quality without replacing the whole operation.",
+     "You get a use case chosen for the value it creates, the integration with AI APIs, prompts, limits and cost controls, and monitoring of quality, safety and spend, with logs and alerts."
+    ]
+   ],
+   "es": [
+    "Integración de APIs de IA",
+    "Conectamos modelos de IA (texto, voz, imagen) a los sistemas que tu empresa ya usa.",
+    "Empresas que quieren IA dentro de sitios, CRMs y sistemas internos.",
+    [
+     "Caso de uso y datos",
+     "Elegimos dónde la IA aporta más valor y mapeamos datos y riesgos.",
+     "Integración y prompts",
+     "Conectamos APIs, creamos prompts, límites y control de costos.",
+     "Pruebas y monitoreo",
+     "Evaluamos calidad, seguridad y costo, con logs y alertas."
+    ],
+    [
+     "tiempo en tareas manuales",
+     "tiempo de respuesta",
+     "operación continua"
+    ],
+    [
+     "El objetivo es llevar inteligencia artificial a las herramientas que tu empresa ya usa, como sitio, CRM y sistemas internos. Indicado para quien quiere ganar tiempo y calidad sin cambiar toda la operación.",
+     "Recibes el caso de uso elegido por el valor que genera, la integración con las APIs de IA, prompts, límites y control de costos, y el monitoreo de calidad, seguridad y gasto, con registros y alertas."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "automacao-n8n",
+  "c": "#f26b1d",
+  "g": 2,
+  "kv": [
+   "-50%",
+   "+20h",
+   "0"
+  ],
+  "L": {
+   "pt": [
+    "Automação com n8n",
+    "Fluxos automáticos entre CRM, planilhas, e-mail, anúncios e IA, sem retrabalho.",
+    "Equipes que perdem tempo em tarefas repetitivas entre ferramentas.",
+    [
+     "Mapa de processos",
+     "Listamos tarefas repetitivas e priorizamos pelo ganho de tempo.",
+     "Construção dos fluxos",
+     "Montamos fluxos no n8n com tratamento de erros e alertas.",
+     "Treino e evolução",
+     "Documentamos, treinamos a equipe e ampliamos os fluxos."
+    ],
+    [
+     "tempo operacional",
+     "horas livres por mês",
+     "dados copiados à mão"
+    ],
+    [
+     "O objetivo é eliminar o trabalho repetitivo entre ferramentas, conectando CRM, planilhas, e-mail, anúncios e IA em fluxos automáticos. Serve para equipes que perdem horas copiando dados de um lugar para outro.",
+     "Você recebe o mapa dos seus processos, fluxos construídos no n8n com tratamento de erros e alertas, documentação e treinamento da equipe, e a evolução dos fluxos conforme a operação cresce."
+    ]
+   ],
+   "en": [
+    "n8n automation",
+    "Automated flows across CRM, sheets, email, ads and AI, with no rework.",
+    "Teams losing time on repetitive tasks across tools.",
+    [
+     "Process map",
+     "We list repetitive tasks and rank them by time saved.",
+     "Building the flows",
+     "We build n8n workflows with error handling and alerts.",
+     "Training and evolution",
+     "We document, train your team and expand the flows."
+    ],
+    [
+     "operational time",
+     "hours freed per month",
+     "data copied by hand"
+    ],
+    [
+     "The goal is to eliminate repetitive work between tools by connecting CRM, spreadsheets, email, ads and AI in automated flows. It suits teams that lose hours copying data from one place to another.",
+     "You get a map of your processes, workflows built in n8n with error handling and alerts, documentation and team training, and the flows evolving as your operation grows."
+    ]
+   ],
+   "es": [
+    "Automatización con n8n",
+    "Flujos automáticos entre CRM, hojas, correo, anuncios e IA, sin retrabajo.",
+    "Equipos que pierden tiempo en tareas repetitivas entre herramientas.",
+    [
+     "Mapa de procesos",
+     "Listamos tareas repetitivas y priorizamos por tiempo ahorrado.",
+     "Construcción de flujos",
+     "Armamos flujos en n8n con manejo de errores y alertas.",
+     "Capacitación y evolución",
+     "Documentamos, capacitamos al equipo y ampliamos los flujos."
+    ],
+    [
+     "tiempo operativo",
+     "horas liberadas al mes",
+     "datos copiados a mano"
+    ],
+    [
+     "El objetivo es eliminar el trabajo repetitivo entre herramientas, conectando CRM, hojas, correo, anuncios e IA en flujos automáticos. Sirve para equipos que pierden horas copiando datos de un lugar a otro.",
+     "Recibes el mapa de tus procesos, flujos construidos en n8n con manejo de errores y alertas, documentación y capacitación del equipo, y la evolución de los flujos a medida que crece la operación."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "agentes-ia",
+  "c": "#d6336c",
+  "g": 2,
+  "kv": [
+   "24/7",
+   "-65%",
+   "+30%"
+  ],
+  "L": {
+   "pt": [
+    "Agentes de IA",
+    "Assistentes que entendem pedidos, consultam seus dados e executam tarefas por conta própria.",
+    "Negócios com atendimento, vendas ou suporte de alto volume.",
+    [
+     "Desenho do agente",
+     "Definimos papel, ferramentas, base de conhecimento e limites.",
+     "Construção e treino",
+     "Criamos o agente com memória, ferramentas e regras de segurança.",
+     "Piloto e supervisão",
+     "Piloto com revisão humana, ajustes e métricas até ir ao ar."
+    ],
+    [
+     "atendimento sem pausa",
+     "tickets resolvidos sozinho",
+     "conversão em vendas"
+    ],
+    [
+     "O objetivo é ter assistentes de IA que entendem pedidos, consultam os seus dados e executam tarefas sozinhos. Indicado para negócios com muito volume de atendimento, vendas ou suporte.",
+     "Você recebe o desenho do agente (papel, ferramentas, base de conhecimento e limites), a construção com memória e regras de segurança e um piloto com revisão humana, ajustado com métricas antes de ir ao ar."
+    ]
+   ],
+   "en": [
+    "AI agents",
+    "Assistants that understand requests, query your data and carry out tasks on their own.",
+    "Businesses with high-volume service, sales or support.",
+    [
+     "Agent design",
+     "We define role, tools, knowledge base and boundaries.",
+     "Build and training",
+     "We build the agent with memory, tools and safety rules.",
+     "Pilot and oversight",
+     "Pilot with human review, tuning and metrics before going live."
+    ],
+    [
+     "round-the-clock service",
+     "tickets solved unaided",
+     "sales conversion"
+    ],
+    [
+     "The goal is to have AI assistants that understand requests, query your data and carry out tasks on their own. Ideal for businesses with high volumes of service, sales or support.",
+     "You get the agent design (role, tools, knowledge base and boundaries), a build with memory and safety rules, and a pilot with human review, tuned with metrics before going live."
+    ]
+   ],
+   "es": [
+    "Agentes de IA",
+    "Asistentes que entienden pedidos, consultan tus datos y ejecutan tareas por sí solos.",
+    "Negocios con atención, ventas o soporte de alto volumen.",
+    [
+     "Diseño del agente",
+     "Definimos rol, herramientas, base de conocimiento y límites.",
+     "Construcción y entrenamiento",
+     "Creamos el agente con memoria, herramientas y reglas de seguridad.",
+     "Piloto y supervisión",
+     "Piloto con revisión humana, ajustes y métricas antes de salir en vivo."
+    ],
+    [
+     "atención sin pausa",
+     "tickets resueltos solos",
+     "conversión en ventas"
+    ],
+    [
+     "El objetivo es contar con asistentes de IA que entienden pedidos, consultan tus datos y ejecutan tareas por sí solos. Indicado para negocios con mucho volumen de atención, ventas o soporte.",
+     "Recibes el diseño del agente (rol, herramientas, base de conocimiento y límites), la construcción con memoria y reglas de seguridad y un piloto con revisión humana, ajustado con métricas antes de salir en vivo."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "whatsapp-ia",
+  "c": "#128c4a",
+  "g": 2,
+  "kv": [
+   "<5s",
+   "+45%",
+   "24/7"
+  ],
+  "L": {
+   "pt": [
+    "WhatsApp Business com IA",
+    "Atendimento e vendas no WhatsApp com fluxos inteligentes, catálogo e transferência para humanos.",
+    "Quem vende ou atende por WhatsApp e quer escalar sem perder o toque humano.",
+    [
+     "API oficial e fluxos",
+     "Configuramos a API oficial do WhatsApp Business, templates e jornadas.",
+     "IA e integrações",
+     "Conectamos IA, CRM, pagamentos e catálogo ao atendimento.",
+     "Operação e melhoria",
+     "Transferência para humanos, relatórios e otimização contínua."
+    ],
+    [
+     "primeira resposta",
+     "taxa de resposta",
+     "atendimento"
+    ],
+    [
+     "O objetivo é atender e vender no WhatsApp com fluxos inteligentes, sem perder o toque humano. Serve para quem já conversa com clientes por lá e quer ganhar escala.",
+     "Você recebe a API oficial do WhatsApp Business configurada, jornadas e templates, integração com IA, CRM, pagamentos e catálogo, transferência para atendentes quando preciso, relatórios e otimização contínua."
+    ]
+   ],
+   "en": [
+    "WhatsApp Business with AI",
+    "Sales and support on WhatsApp with smart flows, catalog and human handoff.",
+    "Anyone selling or serving on WhatsApp who wants to scale and keep the human touch.",
+    [
+     "Official API and flows",
+     "We set up the official WhatsApp Business API, templates and journeys.",
+     "AI and integrations",
+     "We connect AI, CRM, payments and catalog to the conversation.",
+     "Operation and improvement",
+     "Human handoff, reporting and continuous optimization."
+    ],
+    [
+     "first response",
+     "reply rate",
+     "coverage"
+    ],
+    [
+     "The goal is to serve and sell on WhatsApp with smart flows, without losing the human touch. It suits anyone already talking to customers there who wants to scale.",
+     "You get the official WhatsApp Business API set up, journeys and templates, integration with AI, CRM, payments and catalog, handoff to human agents when needed, reporting and continuous optimization."
+    ]
+   ],
+   "es": [
+    "WhatsApp Business con IA",
+    "Atención y ventas por WhatsApp con flujos inteligentes, catálogo y traspaso a humanos.",
+    "Quien vende o atiende por WhatsApp y quiere escalar sin perder el toque humano.",
+    [
+     "API oficial y flujos",
+     "Configuramos la API oficial de WhatsApp Business, plantillas y recorridos.",
+     "IA e integraciones",
+     "Conectamos IA, CRM, pagos y catálogo a la conversación.",
+     "Operación y mejora",
+     "Traspaso a humanos, reportes y optimización continua."
+    ],
+    [
+     "primera respuesta",
+     "tasa de respuesta",
+     "atención"
+    ],
+    [
+     "El objetivo es atender y vender por WhatsApp con flujos inteligentes, sin perder el toque humano. Sirve para quien ya conversa con clientes por ahí y quiere ganar escala.",
+     "Recibes la API oficial de WhatsApp Business configurada, recorridos y plantillas, integración con IA, CRM, pagos y catálogo, traspaso a personas cuando haga falta, reportes y optimización continua."
+    ]
+   ]
+  }
+ },
+ {
+  "s": "alocacao",
+  "c": "#0b7285",
+  "g": 3,
+  "kv": [
+   "14 dias",
+   "95%",
+   "-40%"
+  ],
+  "L": {
+   "pt": [
+    "Alocação de profissionais",
+    "Staff augmentation: especialistas dedicados dentro da sua equipe, em web, IA, automação e marketing.",
+    "Empresas que precisam de mais braços técnicos sem contratar, ou de uma squad pronta por prazo definido.",
+    [
+     "Perfis e escopo",
+     "Definimos stack, senioridade, horas e duração da alocação.",
+     "Seleção e entrada",
+     "Apresentamos candidatos já avaliados, com início em cerca de 2 semanas.",
+     "Gestão e escala",
+     "Acompanhamento, troca quando necessário e ajuste do tamanho da equipe."
+    ],
+    [
+     "para começar",
+     "aderência ao perfil",
+     "custo vs contratação"
+    ],
+    [
+     "O objetivo é reforçar a sua equipe com especialistas dedicados, em web, IA, automação e marketing, sem o custo e a demora de contratar. Serve para empresas que precisam de mais braços técnicos ou de uma squad pronta por um prazo definido.",
+     "Você recebe a definição dos perfis e do escopo, candidatos já avaliados com início em cerca de duas semanas, acompanhamento do trabalho, troca de profissional quando necessário e ajuste do tamanho da equipe."
+    ]
+   ],
+   "en": [
+    "Staff augmentation",
+    "Dedicated specialists embedded in your team (team augmentation, outstaffing) across web, AI, automation and marketing.",
+    "Companies needing extra technical hands without hiring, or a ready squad for a fixed period.",
+    [
+     "Profiles and scope",
+     "We define stack, seniority, hours and engagement length.",
+     "Selection and onboarding",
+     "Pre-vetted candidates presented, starting in about 2 weeks.",
+     "Management and scale",
+     "Follow-up, replacement when needed and team size adjustments."
+    ],
+    [
+     "to get started",
+     "profile match",
+     "cost vs hiring"
+    ],
+    [
+     "The goal is to strengthen your team with dedicated specialists in web, AI, automation and marketing, without the cost and delay of hiring. It suits companies that need extra technical hands or a ready squad for a fixed period.",
+     "You get defined profiles and scope, pre-vetted candidates starting in about two weeks, ongoing follow-up, replacement of a professional when needed and adjustments to team size."
+    ]
+   ],
+   "es": [
+    "Staff augmentation",
+    "Especialistas dedicados integrados a tu equipo (equipos dedicados) en web, IA, automatización y marketing.",
+    "Empresas que necesitan más manos técnicas sin contratar, o una squad lista por un plazo definido.",
+    [
+     "Perfiles y alcance",
+     "Definimos stack, seniority, horas y duración.",
+     "Selección e incorporación",
+     "Presentamos candidatos ya evaluados e inicio en unas 2 semanas.",
+     "Gestión y escala",
+     "Seguimiento, reemplazo cuando haga falta y ajuste del tamaño del equipo."
+    ],
+    [
+     "para comenzar",
+     "ajuste al perfil",
+     "costo vs contratación"
+    ],
+    [
+     "El objetivo es reforzar tu equipo con especialistas dedicados, en web, IA, automatización y marketing, sin el costo ni la demora de contratar. Sirve para empresas que necesitan más manos técnicas o una squad lista por un plazo definido.",
+     "Recibes la definición de perfiles y alcance, candidatos ya evaluados con inicio en unas dos semanas, seguimiento del trabajo, reemplazo de profesionales cuando haga falta y ajuste del tamaño del equipo."
+    ]
+   ]
+  }
+ }
+]

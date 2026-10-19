@@ -1,0 +1,9 @@
+---
+// Perguntas frequentes em <details>: acessível, sem JavaScript e com o texto sempre no HTML (bom para busca e para IAs).
+interface Props { k: string; h: string; items: [string, string][] }
+const { k, h, items } = Astro.props;
+---
+<div class="k">{k}</div><h2>{h}</h2>
+<div class="faq">
+  {items.map(([q, a]) => <details><summary>{q}</summary><p>{a}</p></details>)}
+</div>

@@ -1,0 +1,20 @@
+---
+// Página raiz: encaminha o visitante para o idioma salvo ou do navegador (padrão: pt).
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Quipu — Consultoria &amp; Agência</title>
+    <meta name="robots" content="noindex" />
+    <meta http-equiv="refresh" content="0;url=/pt/" />
+    <link rel="canonical" href="/pt/" />
+    <script is:inline>
+      try {
+        var L = ['pt', 'en', 'es'], s = localStorage.getItem('qt-lang'), n = (navigator.language || 'pt').slice(0, 2);
+        location.replace('/' + (L.indexOf(s) > -1 ? s : L.indexOf(n) > -1 ? n : 'pt') + '/');
+      } catch (e) {}
+    </script>
+  </head>
+  <body><a href="/pt/">Quipu</a></body>
+</html>

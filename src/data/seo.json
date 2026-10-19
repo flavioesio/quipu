@@ -1,0 +1,284 @@
+{
+ "home": {
+  "pt": [
+   "Agência de Marketing Digital, IA e Automação | Quipu",
+   "Marketing digital, desenvolvimento web, automação com n8n, agentes de IA e WhatsApp Business com IA. 12 serviços, cada um com plano de ação claro."
+  ],
+  "en": [
+   "Digital Marketing, AI and Automation Agency | Quipu",
+   "Digital marketing, web development, n8n automation, AI agents and WhatsApp Business with AI. 12 services, each with a clear action plan."
+  ],
+  "es": [
+   "Agencia de Marketing Digital, IA y Automatización | Quipu",
+   "Marketing digital, desarrollo web, automatización con n8n, agentes de IA y WhatsApp Business con IA. 12 servicios, cada uno con plan de acción claro."
+  ]
+ },
+ "services": {
+  "midia-paga": {
+   "pt": [
+    "Gestão de tráfego pago",
+    "Gestão de Tráfego Pago: Google, Meta e TikTok Ads | Quipu",
+    "Campanhas de tráfego pago que viram vendas mensuráveis. Auditoria, criativos e otimização semanal. Receba seu plano de ação em até 3 dias úteis."
+   ],
+   "en": [
+    "Paid media management",
+    "Paid Media Management: Google, Meta & TikTok Ads | Quipu",
+    "Paid campaigns that turn ad spend into measurable sales. Audit, creatives and weekly optimization. Get your action plan within 3 business days."
+   ],
+   "es": [
+    "Gestión de publicidad digital",
+    "Publicidad Digital: Google, Meta y TikTok Ads | Quipu",
+    "Campañas que convierten la inversión en anuncios en ventas medibles. Auditoría, creativos y optimización semanal. Recibe tu plan en 3 días hábiles."
+   ]
+  },
+  "seo": {
+   "pt": [
+    "Agência de SEO e posicionamento no Google",
+    "Agência de SEO: aumente o tráfego orgânico e os leads | Quipu",
+    "SEO técnico, palavras-chave em português e espanhol e conteúdo que posiciona seu site no Google e gera contatos qualificados. Plano de ação com metas."
+   ],
+   "en": [
+    "SEO agency for organic growth",
+    "SEO Agency: Grow Organic Traffic and Leads | Quipu",
+    "Technical SEO, keyword research in Portuguese and Spanish, and content that ranks your site on Google and brings in qualified leads."
+   ],
+   "es": [
+    "Agencia SEO y posicionamiento en Google",
+    "Agencia SEO: más tráfico orgánico y más leads | Quipu",
+    "SEO técnico, palabras clave en portugués y español y contenido que posiciona tu sitio en Google y genera contactos calificados."
+   ]
+  },
+  "redes-sociais": {
+   "pt": [
+    "Gestão de redes sociais para empresas",
+    "Gestão de Redes Sociais: conteúdo que gera demanda | Quipu",
+    "Estratégia, calendário e produção de conteúdo com moderação diária e análise mensal. Transforme seguidores em clientes e crie comunidade em torno da marca."
+   ],
+   "en": [
+    "Social media management",
+    "Social Media Management That Drives Demand | Quipu",
+    "Strategy, content calendar and production with daily moderation and monthly analysis. Turn followers into customers and build community around your brand."
+   ],
+   "es": [
+    "Gestión de redes sociales para empresas",
+    "Gestión de Redes Sociales que genera demanda | Quipu",
+    "Estrategia, calendario y producción de contenido con moderación diaria y análisis mensual. Convierte seguidores en clientes y crea comunidad."
+   ]
+  },
+  "influencia": {
+   "pt": [
+    "Marketing de influência",
+    "Marketing de Influência com criadores do seu público | Quipu",
+    "Seleção de criadores por nicho e audiência, briefing, contratos e relatório de resultados. Ganhe confiança e alcance com vozes autênticas."
+   ],
+   "en": [
+    "Influencer marketing",
+    "Influencer Marketing: Creators Your Audience Trusts | Quipu",
+    "Creators selected by niche and audience, briefs, contracts and results reporting. Earn trust and reach with authentic voices."
+   ],
+   "es": [
+    "Marketing de influencers",
+    "Marketing de Influencers con creadores de confianza | Quipu",
+    "Creadores seleccionados por nicho y audiencia, brief, contratos e informe de resultados. Gana confianza y alcance con voces auténticas."
+   ]
+  },
+  "video-ia": {
+   "pt": [
+    "Produção de vídeo com inteligência artificial",
+    "Vídeo com IA: produção rápida para anúncios e redes | Quipu",
+    "Vídeos com IA generativa para anúncios e redes: roteiro, avatares, locução e edição em português, inglês e espanhol, com revisão humana."
+   ],
+   "en": [
+    "AI video production",
+    "AI Video Production for Ads and Social Media | Quipu",
+    "Generative-AI videos for ads and social: script, avatars, voiceover and editing in Portuguese, English and Spanish, with human review."
+   ],
+   "es": [
+    "Producción de video con inteligencia artificial",
+    "Video con IA: producción rápida para anuncios y redes | Quipu",
+    "Videos con IA generativa para anuncios y redes: guion, avatares, locución y edición en portugués, inglés y español, con revisión humana."
+   ]
+  },
+  "design-web": {
+   "pt": [
+    "Criação e design de sites",
+    "Criação de Sites e Design Web que converte | Quipu",
+    "Design de sites e landing pages pensados para conversão: arquitetura, identidade visual e telas validadas com usuários, para computador e celular."
+   ],
+   "en": [
+    "Web design and website creation",
+    "Web Design and Website Creation That Converts | Quipu",
+    "Website and landing page design built to convert: architecture, visual identity and screens validated with real users on desktop and mobile."
+   ],
+   "es": [
+    "Diseño web y creación de sitios",
+    "Diseño Web y Creación de Sitios que convierten | Quipu",
+    "Diseño de sitios y landing pages pensados para convertir: arquitectura, identidad visual y pantallas validadas con usuarios, en computadora y móvil."
+   ]
+  },
+  "desenvolvimento": {
+   "pt": [
+    "Desenvolvimento de sites e lojas virtuais",
+    "Desenvolvimento Web: sites, e-commerce e sistemas | Quipu",
+    "Desenvolvimento de sites, lojas virtuais e sistemas sob medida: rápidos, seguros e fáceis de manter, com entregas semanais, testes e suporte."
+   ],
+   "en": [
+    "Web development for websites and online stores",
+    "Web Development: Websites, E-commerce and Custom Apps | Quipu",
+    "Fast, secure, maintainable websites, online stores and custom systems, with weekly deliveries, testing and ongoing support."
+   ],
+   "es": [
+    "Desarrollo de sitios web y tiendas online",
+    "Desarrollo Web: sitios, tiendas online y sistemas | Quipu",
+    "Sitios, tiendas online y sistemas a medida rápidos, seguros y fáciles de mantener, con entregas semanales, pruebas y soporte."
+   ]
+  },
+  "apis-ia": {
+   "pt": [
+    "Integração de inteligência artificial em sistemas",
+    "Integração de IA e APIs nos sistemas da sua empresa | Quipu",
+    "Conectamos modelos de IA ao seu site, CRM e sistemas internos, com prompts, limites de custo e monitoramento de qualidade e segurança."
+   ],
+   "en": [
+    "AI API integration for business systems",
+    "AI API Integration for Your CRM, Website and Systems | Quipu",
+    "We connect AI models to your website, CRM and internal tools, with prompts, cost limits and monitoring of quality and safety."
+   ],
+   "es": [
+    "Integración de inteligencia artificial en sistemas",
+    "Integración de IA en tu CRM, sitio y sistemas | Quipu",
+    "Conectamos modelos de IA a tu sitio, CRM y herramientas internas, con prompts, límites de costo y monitoreo de calidad y seguridad."
+   ]
+  },
+  "automacao-n8n": {
+   "pt": [
+    "Automação de processos com n8n",
+    "Automação com n8n: fluxos entre CRM, e-mail e IA | Quipu",
+    "Automatize tarefas repetitivas conectando CRM, planilhas, e-mail e IA com o n8n. Mapeamento de processos, fluxos com alertas e treinamento da equipe."
+   ],
+   "en": [
+    "n8n automation agency",
+    "n8n Automation: Workflows for CRM, Email and AI | Quipu",
+    "Automate repetitive work by connecting CRM, spreadsheets, email and AI with n8n. Process mapping, workflows with alerts and team training."
+   ],
+   "es": [
+    "Automatización de procesos con n8n",
+    "Automatización con n8n: flujos entre CRM, correo e IA | Quipu",
+    "Automatiza tareas repetitivas conectando CRM, hojas, correo e IA con n8n. Mapeo de procesos, flujos con alertas y capacitación del equipo."
+   ]
+  },
+  "agentes-ia": {
+   "pt": [
+    "Criação de agentes de IA para empresas",
+    "Agentes de IA para Empresas: atendimento e vendas 24h | Quipu",
+    "Criamos agentes de IA que entendem pedidos, consultam seus dados e executam tarefas, com regras de segurança e piloto com revisão humana."
+   ],
+   "en": [
+    "AI agent development for business",
+    "AI Agents for Business: Support and Sales 24/7 | Quipu",
+    "We build AI agents that understand requests, query your data and carry out tasks, with safety rules and a pilot with human review."
+   ],
+   "es": [
+    "Creación de agentes de IA para empresas",
+    "Agentes de IA para Empresas: atención y ventas 24/7 | Quipu",
+    "Creamos agentes de IA que entienden pedidos, consultan tus datos y ejecutan tareas, con reglas de seguridad y piloto con revisión humana."
+   ]
+  },
+  "whatsapp-ia": {
+   "pt": [
+    "WhatsApp Business com inteligência artificial",
+    "WhatsApp Business com IA: atendimento e vendas | Quipu",
+    "Atendimento e vendas no WhatsApp com a API oficial, fluxos inteligentes, integração com CRM e catálogo e transferência para atendentes."
+   ],
+   "en": [
+    "WhatsApp Business chatbots with AI",
+    "WhatsApp Business with AI: Customer Support and Sales | Quipu",
+    "Support and sales on WhatsApp using the official API, smart flows, CRM and catalog integration and handoff to human agents."
+   ],
+   "es": [
+    "WhatsApp Business con inteligencia artificial",
+    "WhatsApp Business con IA: atención y ventas | Quipu",
+    "Atención y ventas por WhatsApp con la API oficial, flujos inteligentes, integración con CRM y catálogo y traspaso a personas."
+   ]
+  },
+  "alocacao": {
+   "pt": [
+    "Alocação de profissionais de tecnologia",
+    "Alocação de Profissionais (Staff Augmentation) | Quipu",
+    "Especialistas dedicados em web, IA, automação e marketing integrados à sua equipe, com candidatos avaliados e ajuste do tamanho do time."
+   ],
+   "en": [
+    "IT staff augmentation",
+    "Staff Augmentation: Dedicated Tech Specialists | Quipu",
+    "Dedicated specialists in web, AI, automation and marketing embedded in your team, with vetted candidates and flexible team size."
+   ],
+   "es": [
+    "Staff augmentation y equipos dedicados de tecnología",
+    "Staff Augmentation: equipos dedicados de tecnología | Quipu",
+    "Especialistas dedicados en web, IA, automatización y marketing integrados a tu equipo, con candidatos evaluados y tamaño de equipo flexible."
+   ]
+  }
+ },
+ "slugs": {
+  "midia-paga": {
+   "pt": "trafego-pago",
+   "en": "paid-media",
+   "es": "publicidad-digital"
+  },
+  "seo": {
+   "pt": "seo",
+   "en": "seo",
+   "es": "seo"
+  },
+  "redes-sociais": {
+   "pt": "gestao-de-redes-sociais",
+   "en": "social-media-management",
+   "es": "gestion-de-redes-sociales"
+  },
+  "influencia": {
+   "pt": "marketing-de-influencia",
+   "en": "influencer-marketing",
+   "es": "marketing-de-influencers"
+  },
+  "video-ia": {
+   "pt": "video-com-ia",
+   "en": "ai-video-production",
+   "es": "video-con-ia"
+  },
+  "design-web": {
+   "pt": "design-de-sites",
+   "en": "web-design",
+   "es": "diseno-web"
+  },
+  "desenvolvimento": {
+   "pt": "desenvolvimento-web",
+   "en": "web-development",
+   "es": "desarrollo-web"
+  },
+  "apis-ia": {
+   "pt": "integracao-de-ia",
+   "en": "ai-integration",
+   "es": "integracion-de-ia"
+  },
+  "automacao-n8n": {
+   "pt": "automacao-n8n",
+   "en": "n8n-automation",
+   "es": "automatizacion-n8n"
+  },
+  "agentes-ia": {
+   "pt": "agentes-de-ia",
+   "en": "ai-agents",
+   "es": "agentes-de-ia"
+  },
+  "whatsapp-ia": {
+   "pt": "whatsapp-business-com-ia",
+   "en": "whatsapp-business-ai",
+   "es": "whatsapp-business-con-ia"
+  },
+  "alocacao": {
+   "pt": "alocacao-de-profissionais",
+   "en": "staff-augmentation",
+   "es": "staff-augmentation"
+  }
+ }
+}
