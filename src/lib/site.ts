@@ -43,7 +43,7 @@ export const orgId = (site: URL) => `${site.origin}/#organization`;
 export const contact = {
   email: 'contato@exemplo.com',
   whatsapp: [
-    { label: 'PE', display: '+51 900 000 000', number: '51900000000' },
-    { label: 'BR', display: '+55 11 90000-0000', number: '5511900000000' },
+    { label: 'PE', display: '+51 994 170 427', number: '51900000000' },
+    { label: 'BR', display: '+55 11 92221-1978', number: '5511900000000' },
   ],
 };

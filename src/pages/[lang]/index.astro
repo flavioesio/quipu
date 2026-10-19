@@ -12,7 +12,7 @@ const lang = Astro.params.lang as Lang;
 const x = U[lang];
 const stepColors = ['#ff5a36', '#d98e00', '#12a37a', '#3b4cca'];
 const [title, description] = seoHome[lang];
-const site = Astro.site ?? new URL('https://www.seudominio.com');
+const site = Astro.site ?? new URL('https://quipuglobal.netlify.app');
 const jsonld = [{
   '@id': orgId(site),
   hasOfferCatalog: { '@type': 'OfferCatalog', name: x.sk, itemListElement: S.map((s) => ({ '@type': 'Offer', itemOffered: { '@type': 'Service', name: s.L[lang][0], description: s.L[lang][1], url: new URL(serviceUrl(lang, s.s), site).href } })) },
