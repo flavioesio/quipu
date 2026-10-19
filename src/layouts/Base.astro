@@ -9,7 +9,7 @@ import { langs, htmlLang, U, url, brand, contact, orgId, type Lang } from '../li
 interface Props { lang: Lang; title: string; description: string; paths?: Record<Lang, string>; jsonld?: object[]; noindex?: boolean }
 const { lang, title, description, paths = { pt: '', en: '', es: '' }, jsonld = [], noindex = false } = Astro.props;
 const x = U[lang];
-const site = Astro.site ?? new URL('https://www.seudominio.com');
+const site = Astro.site ?? new URL('https://quipuglobal.netlify.app');
 const abs = (l: Lang) => new URL(url(l, paths[l]), site).href;
 const ogImg = new URL('/og/og-default.png', site).href;
 const graph = [
@@ -31,6 +31,13 @@ const gaId = import.meta.env.PUBLIC_GA_ID as string | undefined;
 <!doctype html>
 <html lang={htmlLang[lang]}>
   <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-55D9TDJT');</script>
+    <!-- End Google Tag Manager -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>{title}</title>
@@ -65,6 +72,10 @@ const gaId = import.meta.env.PUBLIC_GA_ID as string | undefined;
     </>)}
   </head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55D9TDJT"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
     <Header lang={lang} paths={paths} />
     <main id="v"><slot /></main>
