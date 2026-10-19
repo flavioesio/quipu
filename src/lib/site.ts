@@ -41,7 +41,7 @@ export const orgId = (site: URL) => `${site.origin}/#organization`;
 
 /** Contatos exibidos no site. Troque pelos dados reais (número só com dígitos, com DDI). */
 export const contact = {
-  email: 'contato@exemplo.com',
+  email: 'quipuglobal@gmail.com',
   whatsapp: [
     { label: 'PE', display: '+51 994 170 427', number: '51900000000' },
     { label: 'BR', display: '+55 11 92221-1978', number: '5511900000000' },
