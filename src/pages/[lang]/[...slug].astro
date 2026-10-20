@@ -17,7 +17,7 @@ const d = s.L[lang];
 const ph: string[] = d[3];
 const [h1, title, description] = seo[id][lang];
 const paths = Object.fromEntries(langs.map((l) => [l, servicePath(l, id)])) as Record<Lang, string>;
-const site = Astro.site ?? new URL('https://quipuglobal.netlify.app');
+const site = Astro.site ?? new URL('https://pisqu.netlify.app');
 const pageUrl = new URL(url(lang, paths[lang]), site).href;
 const homeUrl = new URL(url(lang), site).href;
 const fill = (t: string) => t.replace('{t}', d[0]).replace('{who}', d[2]).replace('{p1}', ph[0]).replace('{p2}', ph[2]).replace('{p3}', ph[4]);

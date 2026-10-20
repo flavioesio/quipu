@@ -1,8 +1,8 @@
-# Estratégia de SEO — Quipu (Consultoria & Agência)
+# Estratégia de SEO — Pisqu (Consultoria & Agência)
 
 > **Expectativa honesta:** ninguém pode garantir o 1º lugar no Google. O que dá para fazer é montar a
 > melhor base técnica e de conteúdo possível e executar um plano consistente. Metas realistas:
-> **1º lugar para a marca ("Quipu") em semanas**; **top 3 em buscas específicas e de cauda longa em 2–4 meses**;
+> **1º lugar para a marca ("Pisqu") em semanas**; **top 3 em buscas específicas e de cauda longa em 2–4 meses**;
 > **primeira página em termos competitivos ("agência de marketing digital") em 6–12 meses ou mais**,
 > e só com conteúdo novo, links e reputação contínuos. Pagar por anúncios acelera os primeiros leads
 > enquanto o orgânico amadurece.

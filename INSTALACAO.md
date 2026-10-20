@@ -1,4 +1,4 @@
-# Guia de instalação — Quipu (Astro)
+# Guia de instalação — Pisqu (Astro)
 
 Este projeto gera um **site estático** (HTML, CSS e um pouco de JavaScript). Depois de compilado,
 não precisa de servidor com Node: basta publicar a pasta `dist/` em qualquer hospedagem.
@@ -19,8 +19,8 @@ Se não tiver, baixe o instalador **LTS** em https://nodejs.org.
 ## 2. Instalar e rodar no seu computador
 
 ```bash
-# 1) Descompacte quipu-astro-projeto.zip e entre na pasta
-cd quipu-astro
+# 1) Descompacte pisqu-astro-projeto.zip e entre na pasta
+cd pisqu-astro
 
 # 2) Instale as dependências (só na primeira vez; leva ~1 minuto)
 npm install
@@ -68,13 +68,13 @@ Em todas, o comando de build é `npm run build` e a pasta publicada é `dist`.
 e use o fluxo oficial do Astro para Pages.
 
 **Servidor próprio (nginx/Apache)**: copie o conteúdo de `dist/` para a pasta pública
-(`/var/www/quipu`, por exemplo). Como as páginas usam URLs com barra final, o padrão do
+(`/var/www/pisqu`, por exemplo). Como as páginas usam URLs com barra final, o padrão do
 servidor já funciona. Exemplo para nginx:
 
 ```nginx
 server {
   server_name www.seudominio.com;
-  root /var/www/quipu;
+  root /var/www/pisqu;
   index index.html;
   location / { try_files $uri $uri/ =404; }
 }

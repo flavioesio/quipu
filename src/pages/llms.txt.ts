@@ -5,7 +5,7 @@ export const GET: APIRoute = ({ site }) => {
   const abs = (p: string) => new URL(p, site).href;
   const names: Record<Lang, string> = { pt: 'Português', en: 'English', es: 'Español' };
   const parts = [
-    '# Quipu — Consultoria & Agência',
+    '# Pisqu — Consultoria & Agência',
     '> Agência de marketing digital, desenvolvimento web, inteligência artificial e automação. Digital marketing, web development, AI and automation agency. Agencia de marketing digital, desarrollo web, IA y automatización.',
   ];
   for (const l of langs) {

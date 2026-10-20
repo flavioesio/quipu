@@ -1,4 +1,4 @@
-# Quipu — Consultoria & Agência (Astro)
+# Pisqu — Consultoria & Agência (Astro)
 
 Site estático em **Astro 5**, com 3 idiomas (PT, EN, ES), 12 serviços e uma página real
 para cada serviço em cada idioma (40 páginas), com SEO pronto (canonical, hreflang, Open Graph, sitemap).
@@ -53,4 +53,4 @@ public/logo/        arara e logo completo (WebP com fundo transparente)
 
 - Valores, prazos e metas dos planos são ilustrativos: troque pelos reais antes de divulgar.
 - `global.css` veio do site em arquivo único e ainda tem regras de versões anteriores que podem ser limpas.
-# quipu
+# pisqu

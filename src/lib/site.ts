@@ -31,8 +31,8 @@ export const langNames: Record<Lang, string> = { pt: 'Português', en: 'English'
 
 /** Dados da marca usados nos dados estruturados (schema.org). Preencha redes sociais e endereço quando tiver. */
 export const brand = {
-  name: 'Quipu',
-  alt: 'Quipu — Consultoria & Agência',
+  name: 'Pisqu',
+  alt: 'Pisqu — Consultoria & Agência',
   social: [] as string[], // ex.: ['https://www.linkedin.com/company/...', 'https://www.instagram.com/...']
   address: null as null | { streetAddress: string; addressLocality: string; addressRegion?: string; postalCode?: string; addressCountry: string },
   areaServed: ['BR', 'PE'],
@@ -41,7 +41,7 @@ export const orgId = (site: URL) => `${site.origin}/#organization`;
 
 /** Contatos exibidos no site. Troque pelos dados reais (número só com dígitos, com DDI). */
 export const contact = {
-  email: 'quipuglobal@gmail.com',
+  email: 'pisqu.digital@gmail.com',
   whatsapp: [
     { label: 'PE', display: '+51 994 170 427', number: '51900000000' },
     { label: 'BR', display: '+55 11 92221-1978', number: '5511900000000' },
